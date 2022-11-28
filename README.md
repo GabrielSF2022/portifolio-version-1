@@ -4,8 +4,7 @@
 
 ![Portifólio_ Gabriel Furtado - Google Chrome 2022-11-28 09-44-50](https://user-images.githubusercontent.com/97768716/204281817-6f9e278f-6305-4443-a888-347599baf05e.gif)
 
-![172434106-bb6b8b9d-4878-454b-8dca-4d1af4aec0ac__2_-removebg-preview (1) - Copia](https://user-images.githubusercontent.com/97768716/204282880-697e9a4a-350d-4d75-b44f-28523673de54.png)
-
+![Design_sem_nome-removebg-preview](https://user-images.githubusercontent.com/97768716/204286057-a1a68b98-52d7-4c3c-9193-839491c77c56.png)
 
   <h2 align="center">
   <a href="https://gabrielsf2022.github.io/portifolio-version-1/" target="_blank"> Veja o site </a>
