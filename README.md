@@ -2,21 +2,27 @@
 # <div align="center">📌CONSULTOR DE CEP📌 </div>
 <h1 align="center">CONSULTOR DE CEP!!!!
 
-![Consulta CEP - Google Chrome 2022-11-01 14-07-50](https://user-images.githubusercontent.com/97768716/199294607-4b4bda65-0d04-4dfa-8810-663a3114b23b.gif)
-![imagem-origin-removebg-preview](https://user-images.githubusercontent.com/97768716/199295295-dbd73cd7-2bac-4184-89c0-3bf2be328801.png)
+![Portifólio_ Gabriel Furtado - Google Chrome 2022-11-28 09-44-50](https://user-images.githubusercontent.com/97768716/204281817-6f9e278f-6305-4443-a888-347599baf05e.gif)
+
+![172434106-bb6b8b9d-4878-454b-8dca-4d1af4aec0ac__2_-removebg-preview (1) - Copia](https://user-images.githubusercontent.com/97768716/204282880-697e9a4a-350d-4d75-b44f-28523673de54.png)
 
 
   <h2 align="center">
-  <a href="https://gym-website-sage.vercel.app/" target="_blank"> Veja o site </a>
+  <a href="https://gabrielsf2022.github.io/portifolio-version-1/" target="_blank"> Veja o site </a>
 </h2>
   
   
 ## Implementações :information_source:
-1.Vai adiocinar o resultado dentro dos inputs nos campos corretos.
+1.Responsividade Mobile feito pelo Bootstrap.
 <br>
 
-2.Se invalido vai emitir uma mensagem de CEP invalido
+2.Efeito de maquina de escrever em Home, onde vai se alterando as palavras.
 <br>
+
+3.Animação ao scrollar, onde foi usado a biblioteca AOS.
+<br>
+
+4.Formulario de Email que ao ser eviado ira abrir outra pagina, no email ira exibir a mensagem que foi enviada e outra como automática.
 
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
@@ -26,7 +32,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+  <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
 
  
 </div>
