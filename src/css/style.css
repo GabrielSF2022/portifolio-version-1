@@ -198,7 +198,7 @@ img {
 #projetos img{
     width: 300px;
     border-radius: 10px;
-    border: 6px solid var(--color-brand);
+    border: 2px solid var(--color-brand);
     box-shadow: 0 0 20px rgb(48 46 77 / 15%);;
 }
 
@@ -209,14 +209,21 @@ img {
     transition: all 0.5s;
 }
 
-.container-image:hover{
-    transform: scale(1.15);
+.container-image img{
+    transition: all 0.5s;
+}
+
+.container-image img:hover{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
 }
 
 .content-proj{
     justify-content: center;
     align-items: center;
 }
+
 
 
 
